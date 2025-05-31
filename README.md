@@ -21,8 +21,9 @@ The project is divided into three main folders:
    It utilizes Selenium WebDriver along with the TestNG framework.
 
 ---
-
 ## Automation Project Structure (Task4_Automation)
+
+
 Task4_Automation/
 │
 ├── src/
@@ -38,6 +39,9 @@ Task4_Automation/
 ├── testng.xml # TestNG suite configuration file
 ├── pom.xml # Maven build file
 └── README.md # Project documentation
+
+
+
 
 
 
