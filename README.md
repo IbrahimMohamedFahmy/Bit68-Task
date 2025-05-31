@@ -22,25 +22,9 @@ The project is divided into three main folders:
 
 ---
 ## Automation Project Structure (Task4_Automation)
-َََ
 
-Task4_Automation/
-│
-├── src/
-│ ├── main/
-│ │ └── java/
-│ │ └── pageobjects/ # Page Object Model classes representing UI pages
-│ │
-│ └── test/
-│ └── java/
-│ ├── setup/ # Configuration and setup classes (e.g., WebDriver setup)
-│ └── testcases/ # Test classes implementing test scenarios for features
-│
-├── testng.xml # TestNG suite configuration file
-├── pom.xml # Maven build file
-└── README.md # Project documentation
+<pre> ## Automation Project Structure (Task4_Automation) ``` Task4_Automation/ │ ├── src/ │ ├── main/ │ │ └── java/ │ │ └── pageobjects/ # Page Object Model classes representing UI pages │ │ └── test/ │ └── java/ │ ├── setup/ # Configuration and setup classes (e.g., WebDriver setup) │ └── testcases/ # Test classes implementing test scenarios for features │ ├── testng.xml # TestNG suite configuration file ├── pom.xml # Maven build file └── README.md # Project documentation ``` </pre>
 
-َََ
 ---
 
 ## Key Technologies
