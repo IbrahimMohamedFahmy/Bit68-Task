@@ -22,7 +22,7 @@ The project is divided into three main folders:
 
 ---
 ## Automation Project Structure (Task4_Automation)
-
+َ
 
 Task4_Automation/
 │
@@ -39,12 +39,7 @@ Task4_Automation/
 ├── testng.xml # TestNG suite configuration file
 ├── pom.xml # Maven build file
 └── README.md # Project documentation
-
-
-
-
-
-
+َ
 ---
 
 ## Key Technologies
